@@ -12,3 +12,4 @@ verifying domains through DNS. This project aims to
 provide a robust set of tools tailored for operations
 on verified domains, ensuring that domain verification
 and management are accessible and transparent.
+DIOEXA
