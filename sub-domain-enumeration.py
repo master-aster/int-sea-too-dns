@@ -45,8 +45,8 @@ def resolve_and_follow_subdomain(initial_subdomain, nested_subdomains, primary_d
         found = resolve_subdomain(full_domain, timeout)
         index += 1
 
-RATE_LIMIT_SECONDS = 1
-TIMEOUT_SECONDS = 5
+RATE_LIMIT_SECONDS = 3
+TIMEOUT_SECONDS = 8
 
 primary_domain = input("Enter the primary domain: ")
 
